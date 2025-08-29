@@ -114,4 +114,4 @@ Este repositório é apenas um **estudo prático** para compreender:
 
 ---
 
-Feito com ☕ e estudo por **[Luís Muhele](https://github.com/seu-usuario)**.
+Feito com ☕ e estudo por **[Luís Muhele](https://github.com/lord2pm)**.
